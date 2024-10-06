@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Khắc Hồng",
+        "phone": "1234567890",
+        "email": "hong@gmail.com",
+        "gender": "Nam",
+        "address": "Hà Nam",
+        "total": 0.0,
+        "history": []
+    },
+    {
+        "id": "2",
+        "name": "Tuấn Dũng",
+        "phone": "9876543210",
+        "email": "dung@gmail.com",
+        "gender": "Nam",
+        "address": "Hải Phòng",
+        "total": 0.0,
+        "history": []
+    },
+    {
+        "id": "3",
+        "name": "Linh Chi",
+        "phone": "5551234567",
+        "email": "chi@gmail.com",
+        "gender": "Nữ",
+        "address": "Hà Nội",
+        "total": 0.0,
+        "history": []
+    }
+]
